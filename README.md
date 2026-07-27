@@ -40,3 +40,22 @@ hospital_management
 - Analyze patient demographics
 - Generate doctor-wise revenue
 
+##  Project Screenshots
+
+### 1. Tables Created
+![Tables Created](screenshots/01_tables_created.png)
+
+### 2. Patients Table
+![Patients Table](screenshots/02_patients_table.png)
+
+### 3. Doctors Table
+![Doctors Table](screenshots/03_doctors_table.png)
+
+### 4. Appointments Table
+![Appointments Table](screenshots/04_appointments_table.png)
+
+### 5. INNER JOIN Output
+![INNER JOIN](screenshots/05_inner_join.png)
+
+### 6. CASE WHEN Output
+![CASE WHEN](screenshots/06_case_when.png)
