@@ -43,7 +43,7 @@ hospital_management
 ##  Project Screenshots
 
 ### 1. Tables Created
-![Tables Created](screenshots/tables_created.png)
+![Tables Created](screenshots/table_created.png)
 
 ### 2. Patients Table
 ![Patients Table](screenshots/patients_table.png)
