@@ -42,20 +42,36 @@ hospital_management
 
 ##  Project Screenshots
 
-### 1. Tables Created
-![Tables Created](screenshots/table_created.png)
+###  Tables Created
 
-### 2. Patients Table
-![Patients Table](screenshots/patients_table.png)
+![Tables Created](table_created.jpeg)
 
-### 3. Doctors Table
-![Doctors Table](screenshots/doctors_table.png)
+---
 
-### 4. Appointments Table
-![Appointments Table](screenshots/appointments_table.png)
+###  Patients Table
 
-### 5. INNER JOIN Output
-![INNER JOIN](screenshots/inner_join.png)
+![Patients Table](patients_table.jpeg)
 
-### 6. CASE WHEN Output
-![CASE WHEN](screenshots/case_when.png)
+---
+
+###  Doctors Table
+
+![Doctors Table](doctors.table.jpeg)
+
+---
+
+###  Appointments Table
+
+![Appointments Table](appointments_table.jpeg)
+
+---
+
+###  INNER JOIN Output
+
+![INNER JOIN](inner_join.jpeg)
+
+---
+
+###  CASE WHEN Output
+
+![CASE WHEN](case_when.jpeg)
