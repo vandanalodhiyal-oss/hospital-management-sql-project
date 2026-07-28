@@ -1,5 +1,5 @@
 CREATE DATABASE hospital_management;
-USE hospital_managment;
+USE hospital_management;
 
 CREATE TABLE patients (
     patient_id INT PRIMARY KEY,
